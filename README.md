@@ -2,7 +2,7 @@
 
 # Juan Cruz Lado - @Juancruzlado
 
-## Hola! Soy Juan Cruz, y estoy trabajando como software developer backend especializado en Symfony y MySql para una webapp.
+## Hola! Soy Juan Cruz, y estoy trabajando como software developer backend con experiencia en Symfony desarrollando webapps.
 
 Amo los retos intelectuales para poder aprender más y mejor, y toda oportunidad para mejorar es alentada y bienvenida!
 
