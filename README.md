@@ -32,7 +32,7 @@ Mi fuerte es el backend y PHP (Symfony) pero deseo aprender más sobre Microserv
 
 I love intellectual challenges to learn deeper & better, every learning oportunity is encouraged and appreciated!
 
-:point_right: [Curriculum Vitae](https://drive.google.com/file/d/1He8Inb7xRep0sQe71dAIpkLAPAKZFpnj/view?usp=share_link)
+:point_right: [Curriculum Vitae]
 
 ### Interests & Learning
 
