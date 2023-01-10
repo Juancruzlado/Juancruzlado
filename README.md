@@ -6,7 +6,7 @@
 
 Amo los retos intelectuales para poder aprender más y mejor, y toda oportunidad para mejorar es alentada y bienvenida!
 
-:point_right: [Curriculum Vitae](https://drive.google.com/file/d/1He8Inb7xRep0sQe71dAIpkLAPAKZFpnj/view?usp=share_link)
+:point_right: [Curriculum Vitae]
 
 ### Interests & Learning
 
