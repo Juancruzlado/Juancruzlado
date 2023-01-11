@@ -8,10 +8,10 @@ Amo los retos intelectuales para poder aprender más y mejor, y toda oportunidad
 
 :point_right: [Curriculum Vitae]
 
-### Interests & Learning
+### Intereses & Aprendizaje
 
 :seedling: Estoy haciendo cursos y me gusta incursionar en JavaScript Golang y Solidity en la plataforma Udemy y estudiando un poco de todo en las ramas de la programación.
-A su veces como hobbie disfruto de hacer algun que otro CTF como [HackTheBox](https://www.hackthebox.com)
+A su vez como hobbie disfruto de hacer algun que otro CTF como [HackTheBox](https://www.hackthebox.com)
 
 ### Estado de Contratación
 
