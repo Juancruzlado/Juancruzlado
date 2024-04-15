@@ -24,6 +24,8 @@ I'm a project leader right now, undergoing my first ever lead effort in building
 My future interests would be definately related to low level stuff || Microservices && SRE activites || More Advanced Pen-Testing activities.
 I'd also love to contribute to Open Source projects, find CVEs and contribute to making the internet a better place for everyone. 
 Thanks for reading <3
+
+
 -----------------------------------------------------------------
 
 
