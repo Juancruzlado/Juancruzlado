@@ -54,4 +54,3 @@ Mi atributo más fuerte en programación es el fullstack en proyectos Symfony, d
 Linux es mi sistema operativo preferido para desarrollar programas y realizar PenTesting, debido a lo fácil que es de usar. ¡Me encanta aprender cosas nuevas todo el tiempo y mantenerme actualizado en la industria de la tecnología de la información en su conjunto! Mis intereses futuros definitivamente estarían relacionados con cosas de bajo nivel || Actividades de Microservicios y SRE || Actividades de Pen-Testing más avanzadas. También me encantaría contribuir a proyectos de código abierto, encontrar CVEs y contribuir a hacer de Internet un lugar mejor para todos. ¡Gracias por leer! 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juancruzlado)](https://github.com/Juancruzlado/github-readme-stats)
-![Juan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juancruzlado&show_icons=true&theme=transparent)
