@@ -11,7 +11,7 @@ I love intellectual challenges to learn deeper & better, every learning oportuni
 
 :seedling: Im currently embarqued in self-study of Golang, Python and Bash.
 I love to venture into the lowest levels of code (c, assembly)
-I also like to dabble into playing CTFs like [HackTheBox](https://app.hackthebox.com/users/1449292)
+I also like to dabble into playing CTFs like HackTheBox, or TryHackme. 
 
 ### Hiring Status
 Im open to new Job Opportunities! and looking for reasonable offers. Especially related to Backend of complex systems, or PenTesting/Red Team Cyber Security Activities, as well as AppSec.
@@ -27,7 +27,8 @@ I'd also love to contribute to Open Source projects, find CVEs and contribute to
 Thanks for reading
 I'm currently learning Golang as my second language. So PHP and Golang it is. My approach is to make lot's of small littke projects as well as leverage the onlne platforms
 like Codewars, Codecrafters.io, etc. Anything code related that's interesting and challenging is and will always be welcome!  
-
+ [My HackTheBox Profile if you're interested](https://app.hackthebox.com/users/1449292)
+![alt text](scren.png)
 -----------------------------------------------------------------
 
 
