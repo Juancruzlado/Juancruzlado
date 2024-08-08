@@ -24,9 +24,8 @@ Also i'm part of an SSR team that manages Api Gateway, Authuentication and Archi
 Linux is my preferred OS for Developing and Pentesting, due to how easy to use it is. I love Learning new stuff all the time and keeping up to date on the industry of information technology as a whole!  
 My future interests would be definately related to low level stuff || Microservices && SRE activites || More Advanced Pen-Testing activities.
 I'd also love to contribute to Open Source projects, find CVEs and contribute to making the internet a better place for everyone one day, when my skills back it up. 
-Thanks for reading
-I'm currently learning Golang as my second language. So PHP and Golang it is. My approach is to make lot's of small littke projects as well as leverage the onlne platforms
-like Codewars, Codecrafters.io, etc. Anything code related that's interesting and challenging is and will always be welcome!  
+I'm currently learning Golang as my second language. So PHP and Golang it is. My approach is to make lot's of projects.
+
  [My HackTheBox Profile if you're interested](https://app.hackthebox.com/users/1449292)
 ![alt text](scren.png)
 
