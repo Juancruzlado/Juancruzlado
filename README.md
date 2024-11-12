@@ -38,12 +38,12 @@ I'm currently learning Golang as my second language. So PHP and Golang it is. My
 
 ## ¡Hola! Soy Juan Cruz, actualmente soy desarrollador de software.
 
-Trabajo en 2 empleos, uno como Desarrollador de Software & Arquitectura de Apps , y otro como desarrollador fullstack para una startup. 
+Trabajo en 2 empleos, uno como Desarrollador de Software & Arquitectura de Apps , y otro como desarrollador freelance. 
 Me encantan los desafíos intelectuales para aprender  de manera más profunda y saber realmente el porque funciona todo, ¡cada oportunidad de aprendizaje va a ser alentada y apreciada!
 
 ### Intereses y Aprendizaje
 
-:seedling: Actualmente en mi tiempo libre estoy embarcandome en el estudio de Golang, Python y Bash. Eventualmente me aventuro de vez en cuando en los niveles más bajos del código (C, ensamblador). También me gusta incursionar en jugar CTFs como [HackTheBox](https://app.hackthebox.com/users/1449292).
+:seedling: Actualmente en mi tiempo libre estoy embarcandome en el estudio de Golang, PHP y Bash. Eventualmente me aventuro de vez en cuando en los niveles más bajos del código (C, ensamblador). También me gusta incursionar en jugar CTFs como [HackTheBox](https://app.hackthebox.com/users/1449292).
 
 ### Estado de Contratación
 
