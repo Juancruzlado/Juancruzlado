@@ -9,7 +9,7 @@ I love intellectual challenges to learn deeper & better, every learning oportuni
 
 ### Interests & Learning
 
-:seedling: Im currently embarqued in self-study of Golang, Python and Bash.
+:seedling: Im currently embarqued in self-study of Golang, PHP and Bash.
 I love to venture into the lowest levels of code (c, assembly)
 I also like to dabble into playing CTFs like HackTheBox, or TryHackme. 
 
