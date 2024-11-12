@@ -4,7 +4,7 @@
 
 ## What's up! i'm Juan Cruz, currently a software developer 
 
-I work 2 jobs as a Software Developer & App Architecture, and another as a fullstack dev for a startup. 
+I work 2 jobs as a Software Developer & App Architecture, and another as a fullstack dev freelancing. 
 I love intellectual challenges to learn deeper & better, every learning oportunity is encouraged and appreciated!
 
 ### Interests & Learning
