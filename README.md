@@ -27,7 +27,8 @@ I'd also love to contribute to Open Source projects, find CVEs and contribute to
 I'm currently learning Golang as my second language. So PHP and Golang it is. My approach is to make lots of projects.
 
  [My HackTheBox Profile if you're interested](https://app.hackthebox.com/users/1449292)
-![alt text](Screenshot.png)
+
+![image](https://github.com/user-attachments/assets/eadc0462-6bba-4f9f-9631-f557f9f4d54d)
 
 -----------------------------------------------------------------
 
