@@ -28,7 +28,7 @@ I'm currently learning Golang as my second language. So PHP and Golang it is. My
 
  [My HackTheBox Profile if you're interested](https://app.hackthebox.com/users/1449292)
 
-![GITHUB](https://github.com/user-attachments/assets/9eb95773-6297-45e8-b524-a2d7c23d79cc)
+![GITHUB](https://github.com/user-attachments/assets/7f4a82a0-126b-40b6-8b84-d46a9b683636)
 
 -----------------------------------------------------------------
 
