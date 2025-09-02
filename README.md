@@ -4,8 +4,8 @@
 
 ## What's up! i'm Juan Cruz, currently a software developer 
 
-I work 2 jobs as a Software Developer & App Architecture, and another as a fullstack dev freelancing. 
-I love intellectual challenges to learn deeper & better, every learning oportunity is encouraged and appreciated!
+I work as a Software Developer & Pentester, also fullstack dev freelancer. 
+I love intellectual challenges & every learning oportunity is encouraged and appreciated!
 
 ### Interests & Learning
 
@@ -39,7 +39,7 @@ I'm currently learning Golang as my second language. So PHP and Golang it is. My
 
 ## ¡Hola! Soy Juan Cruz, actualmente soy desarrollador de software.
 
-Trabajo en 2 empleos, uno como Desarrollador de Software & Arquitectura de Apps , y otro como desarrollador freelance. 
+Trabajo como Desarrollador de Software & Pentester, y desarrollador freelance. 
 Me encantan los desafíos intelectuales para aprender  de manera más profunda y saber realmente el porque funciona todo, ¡cada oportunidad de aprendizaje va a ser alentada y apreciada!
 
 ### Intereses y Aprendizaje
