@@ -29,6 +29,4 @@ I'm currently learning Golang as my second language. So PHP and Golang it is. My
 
 ![GITHUB](https://github.com/user-attachments/assets/7f4a82a0-126b-40b6-8b84-d46a9b683636)
 
------------------------------------------------------------------
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juancruzlado)]
+--------------------------------------------------------------
