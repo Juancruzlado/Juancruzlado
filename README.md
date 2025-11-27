@@ -4,7 +4,7 @@
 
 ## What's up! i'm Juan Cruz, currently a Software Developer & Pentester
 
-I work as a Software Developer & Pentester, also fullstack dev freelancer. 
+I work as a Software Developer & Pentester 
 I love intellectual challenges & every learning oportunity is encouraged and appreciated!
 
 ### Interests & Learning
