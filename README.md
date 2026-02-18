@@ -9,7 +9,7 @@ I love challenges & every learning oportunity is appreciated!
 
 ### Interests & Learning
 
-:seedling: Im currently embarqued in self-study of C & C++ plus assembly language, but currently work with PHP and Bash.
+:seedling: Im currently embarqued in self-study of C/C++ and lower level languages like assembly language or VHDL.
 I also like to dabble into playing CTFs like HackTheBox, or TryHackme, besides doing reverse engineering.
 
 ### Hiring Status
